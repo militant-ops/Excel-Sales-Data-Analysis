@@ -40,6 +40,10 @@ These included:
   
 Cell referencing was also used to create consistent and reusable calculations across the dataset.
 
+<img width="430" height="241" alt="image" src="https://github.com/user-attachments/assets/89472687-1ca7-4e26-8f77-9fabdaef9b51" />
+
+In the image above using the functions i worked out the grand total sums of females and males that bought bikes.
+
 3. Conditional Formatting
    
 Conditional formatting was used to highlight important patterns within the data.
@@ -81,11 +85,6 @@ The project included visualisations such as:
   
 These visualisations helped communicate patterns, comparisons, trends, and relationships within the data.
 
-6. Interactive Reporting
-  
-Interactive reporting features were used to allow users to explore the data more easily.
-
-PivotCharts and interactive filters were used to support the exploration of key metrics and business performance.
 
 ## 📊 Key Analysis Areas
 
