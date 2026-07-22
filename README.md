@@ -24,13 +24,13 @@ This involved reviewing the data structure, checking the available fields, and e
 2. Formulas and Functions
 A range of Excel formulas and functions were used to perform calculations and analyse the dataset.
 These included:
-SUM
-AVERAGE
-COUNT
-SUMIF
-SUMIFS
-AVERAGEIF
-AVERAGEIFS
+- SUM
+- AVERAGE
+- COUNT
+- SUMIF
+- SUMIFS
+- AVERAGEIF
+- AVERAGEIFS
 Cell referencing was also used to create consistent and reusable calculations across the dataset.
 3. Conditional Formatting
 Conditional formatting was used to highlight important patterns within the data.
@@ -40,54 +40,68 @@ Sales trends
 Top-performing products
 Potential outliers
 Differences between categories and regions
+
 4. PivotTables and Data Summarisation
+   
 PivotTables were created to summarise and analyse the dataset across different dimensions.
+
 The analysis explored areas such as:
-Sales by product category
-Sales by region
-Customer segments
-Sales performance over time
-Product performance
-5. Data Visualisation
+- Sales by product category
+- Sales by region
+- Customer segments
+- Sales performance over time
+- Product performance
+
+6. Data Visualisation
+   
 Charts and visualisations were created to make the results easier to understand.
+
 The project included visualisations such as:
-Bar charts
-Line graphs
-Pie charts
-Scatter plots
-Histograms
-Heat maps
+- Bar charts
+- Line graphs
+- Pie charts
+- Scatter plots
+- Histograms
+- Heat maps
+  
 These visualisations helped communicate patterns, comparisons, trends, and relationships within the data.
-6. Interactive Reporting
+
+7. Interactive Reporting
+  
 Interactive reporting features were used to allow users to explore the data more easily.
+
 PivotCharts and interactive filters were used to support the exploration of key metrics and business performance.
 
 ## 📊 Key Analysis Areas
+
 The analysis focused on:
-Sales performance
-Product categories
-Customer demographics
-Regional performance
-Sales trends over time
-Quantity sold
-Price per unit
-Total sales
+- Sales performance
+- Product categories
+- Customer demographics
+- Regional performance
+- Sales trends over time
+- Quantity sold
+- Price per unit
+- Total sales
 
 ## 💡 Key Insights
+
 The analysis was used to identify:
-Top-performing products and categories
-Differences in sales performance across regions
-Trends in sales over time
-Customer characteristics within the dataset
-Patterns and relationships between different variables
+- Top-performing products and categories
+- Differences in sales performance across regions
+- Trends in sales over time
+- Customer characteristics within the dataset
+- Patterns and relationships between different variables
 
 ## 🖼️ Project Visualisations
+
 Excel Analysis
 
 Excel Dashboard
 
 ## 🚀 Future Improvements
-- Potential improvements to this project include:
+
+Potential improvements to this project include:
 - Developing a more advanced interactive dashboard
 - Adding more complex Excel formulas and calculations
 - Creating additional KPIs for monitoring business performance
