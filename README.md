@@ -50,6 +50,12 @@ Top-performing products
 Potential outliers
 Differences between categories and regions
 
+
+<img width="461" height="205" alt="image" src="https://github.com/user-attachments/assets/d216e520-c02c-459b-8fa4-333706a4a9a6" />
+
+- Image above Shows best students in the class by average in Red, Shows students with highest score in yellow and shows student with the lowest score in green.
+
+
 4. PivotTables and Data Summarisation
    
 PivotTables were created to summarise and analyse the dataset across different dimensions.
