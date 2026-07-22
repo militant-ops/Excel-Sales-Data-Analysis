@@ -37,12 +37,20 @@ These included:
 - SUMIFS
 - AVERAGEIF
 - AVERAGEIFS
+- SWITCH
   
 Cell referencing was also used to create consistent and reusable calculations across the dataset.
 
 <img width="430" height="241" alt="image" src="https://github.com/user-attachments/assets/89472687-1ca7-4e26-8f77-9fabdaef9b51" />
 
 In the image above using the functions i worked out the grand total sums of females and males that bought bikes.
+
+<img width="420" height="342" alt="image" src="https://github.com/user-attachments/assets/305bacc0-5c58-4561-bd1c-770706244a3a" />
+
+In the image above i created a pivot table and used the switch function and put:
+- for sales greater than 600: "High"
+- For sales between 300 and 600: "Medium"
+- For sales less than 300: "Low"
 
 3. Conditional Formatting
    
@@ -109,9 +117,10 @@ The analysis was used to identify:
 
 ## 🖼️ Project Visualisations
 
-Excel Analysis
+<img width="426" height="255" alt="image" src="https://github.com/user-attachments/assets/11b5752b-1109-4f41-99ce-5e46f2014084" />
 
-Excel Dashboard
+Image Above shows the sales summary of the age and country of male and females who bought bikes.
+
 
 ## 🚀 Future Improvements
 
