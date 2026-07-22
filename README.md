@@ -2,10 +2,13 @@
 
 ## 📌 Overview
 This project demonstrates the use of Microsoft Excel to clean, analyse, and visualise sales data.
+
 The project involved working with a sales dataset to explore customer information, product performance, sales trends, and other business-related metrics. Excel was used to transform raw data into meaningful insights through formulas, conditional formatting, PivotTables, charts, and interactive reporting.
+
 The objective was to demonstrate how Excel can be used throughout the data analysis process, from preparing raw data to presenting insights that can support business decision-making.
 
 ## 🛠️ Tools & Skills
+
 Microsoft Excel
 Data Cleaning
 Data Analysis
@@ -18,11 +21,14 @@ Data Visualisation
 Interactive Dashboards
 
 ## 🔄 Project Workflow
+
 1. Data Preparation
-The dataset was organised and prepared for analysis.
-This involved reviewing the data structure, checking the available fields, and ensuring that the data could be analysed effectively using Excel.
+- The dataset was organised and prepared for analysis.
+- This involved reviewing the data structure, checking the available fields, and ensuring that the data could be analysed effectively using Excel.
+  
 2. Formulas and Functions
 A range of Excel formulas and functions were used to perform calculations and analyse the dataset.
+
 These included:
 - SUM
 - AVERAGE
@@ -31,8 +37,11 @@ These included:
 - SUMIFS
 - AVERAGEIF
 - AVERAGEIFS
+  
 Cell referencing was also used to create consistent and reusable calculations across the dataset.
+
 3. Conditional Formatting
+   
 Conditional formatting was used to highlight important patterns within the data.
 This helped identify:
 High and low-performing results
@@ -52,7 +61,7 @@ The analysis explored areas such as:
 - Sales performance over time
 - Product performance
 
-6. Data Visualisation
+5. Data Visualisation
    
 Charts and visualisations were created to make the results easier to understand.
 
@@ -66,7 +75,7 @@ The project included visualisations such as:
   
 These visualisations helped communicate patterns, comparisons, trends, and relationships within the data.
 
-7. Interactive Reporting
+6. Interactive Reporting
   
 Interactive reporting features were used to allow users to explore the data more easily.
 
