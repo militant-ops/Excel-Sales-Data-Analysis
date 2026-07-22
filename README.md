@@ -126,11 +126,7 @@ Image Above shows the sales summary of the age and country of male and females w
 ## 🚀 Future Improvements
 
 Potential improvements to this project include:
-- Developing a more advanced interactive dashboard
 - Adding more complex Excel formulas and calculations
 - Creating additional KPIs for monitoring business performance
 - Automating repetitive data-cleaning tasks using Power Query
-- Using VBA to automate parts of the analysis process
-- Connecting the workbook to regularly updated data sources
-- Improving the dashboard design and user experience
 - Conducting more advanced statistical analysis to identify deeper trends
