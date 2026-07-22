@@ -121,6 +121,7 @@ The analysis was used to identify:
 
 Image Above shows the sales summary of the age and country of male and females who bought bikes.
 
+<img width="426" height="751" alt="image" src="https://github.com/user-attachments/assets/e1f53459-7190-47d6-989f-9dcf9ee3f6b9" />
 
 ## 🚀 Future Improvements
 
