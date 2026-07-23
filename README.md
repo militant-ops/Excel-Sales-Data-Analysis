@@ -1,13 +1,13 @@
 # Excel-Sales-Data-Analysis
 
-## 📌 Overview
+## Overview
 This project demonstrates the use of Microsoft Excel to clean, analyse, and visualise sales data.
 
 The project involved working with a sales dataset to explore customer information, product performance, sales trends, and other business-related metrics. Excel was used to transform raw data into meaningful insights through formulas, conditional formatting, PivotTables, charts, and interactive reporting.
 
 The objective was to demonstrate how Excel can be used throughout the data analysis process, from preparing raw data to presenting insights that can support business decision-making.
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 Microsoft Excel
 Data Cleaning
@@ -20,7 +20,7 @@ PivotCharts
 Data Visualisation
 Interactive Dashboards
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Data Preparation
 - The dataset was organised and prepared for analysis.
@@ -94,7 +94,7 @@ The project included visualisations such as:
 These visualisations helped communicate patterns, comparisons, trends, and relationships within the data.
 
 
-## 📊 Key Analysis Areas
+## Key Analysis Areas
 
 The analysis focused on:
 - Sales performance
@@ -106,7 +106,7 @@ The analysis focused on:
 - Price per unit
 - Total sales
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis was used to identify:
 - Top-performing products and categories
@@ -115,7 +115,7 @@ The analysis was used to identify:
 - Customer characteristics within the dataset
 - Patterns and relationships between different variables
 
-## 🖼️ Project Visualisations
+## Project Visualisations
 
 <img width="426" height="255" alt="image" src="https://github.com/user-attachments/assets/11b5752b-1109-4f41-99ce-5e46f2014084" />
 
@@ -123,7 +123,7 @@ Image Above shows the sales summary of the age and country of male and females w
 
 <img width="426" height="751" alt="image" src="https://github.com/user-attachments/assets/e1f53459-7190-47d6-989f-9dcf9ee3f6b9" />
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential improvements to this project include:
 - Adding more complex Excel formulas and calculations
